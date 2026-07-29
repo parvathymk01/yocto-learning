@@ -1,1 +1,1 @@
-
+While working on Embedded Linux projects, I used the Yocto Project to build custom Linux images for different hardware platforms such as Intel x86, Raspberry Pi CM4, and TI AM62. Yocto provides a flexible build system that allows developers to customize the Linux operating system by selecting packages, configuring build options, and integrating applications.
