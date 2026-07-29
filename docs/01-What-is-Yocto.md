@@ -30,19 +30,19 @@ During my Embedded Linux work, I used the Yocto Project to:
 
 Developer
      │
-     ▼
+     
 BitBake
      │
-     ▼
+     
 Recipes (.bb)
      │
-     ▼
+     
 Compile Packages
      │
-     ▼
+     
 Root File System
      │
-     ▼
+     
 Linux Image
 
 
