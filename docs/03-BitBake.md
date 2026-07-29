@@ -58,25 +58,18 @@ Lists all layers included in the build.
 ## BitBake Build Process
 Recipe (.bb)
       │
-      ▼
 Fetch Source
       │
-      ▼
 Configure
       │
-      ▼
 Compile
       │
-      ▼
 Install
       │
-      ▼
 Package
       │
-      ▼
 Create RootFS
       │
-      ▼
 Generate Image
 ---
 ## Common Tasks
